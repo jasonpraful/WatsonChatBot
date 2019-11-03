@@ -53,8 +53,3 @@ botui.message.bot({ // show first message
   })
 })
 ```
-
-
-### License
-
-[MIT License](https://github.com/moinism/botui/blob/master/LICENSE) - Copyrights (c) 2017-18 - Moin Uddin
